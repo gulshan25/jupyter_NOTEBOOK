@@ -1,0 +1,8 @@
+pip install virtualenv #pip - python installer package)
+virtualenv myenv
+myenv\Scripts\activate
+where python 
+deactivate
+python -m pip install notebook
+jupyter notebook
+pip freeze

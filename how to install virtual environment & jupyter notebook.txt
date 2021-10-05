@@ -1,4 +1,4 @@
-pip install virtualenv #pip - python installer package)
+pip install virtualenv       # pip - python installer package)
 virtualenv myenv
 myenv\Scripts\activate
 where python 
